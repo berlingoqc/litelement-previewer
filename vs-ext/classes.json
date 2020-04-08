@@ -1,0 +1,347 @@
+[
+    {
+        "name": "SafeArray"
+    },
+    {
+        "name": "VarDate"
+    },
+    {
+        "name": "AttributeCommitter"
+    },
+    {
+        "name": "AttributePart"
+    },
+    {
+        "name": "NodePart"
+    },
+    {
+        "name": "BooleanAttributePart"
+    },
+    {
+        "name": "PropertyCommitter"
+    },
+    {
+        "name": "PropertyPart"
+    },
+    {
+        "name": "EventPart"
+    },
+    {
+        "name": "TemplateResult"
+    },
+    {
+        "name": "SVGTemplateResult"
+    },
+    {
+        "name": "Template"
+    },
+    {
+        "name": "DefaultTemplateProcessor"
+    },
+    {
+        "name": "TemplateInstance"
+    },
+    {
+        "name": "UpdatingElement"
+    },
+    {
+        "name": "CSSResult"
+    },
+    {
+        "name": "LitElement"
+    },
+    {
+        "name": "DesktopEntry"
+    },
+    {
+        "name": "Buffer"
+    },
+    {
+        "name": "EventEmitter"
+    },
+    {
+        "name": "Subscription"
+    },
+    {
+        "name": "Subscriber"
+    },
+    {
+        "name": "SafeSubscriber"
+    },
+    {
+        "name": "Observable"
+    },
+    {
+        "name": "SubjectSubscriber"
+    },
+    {
+        "name": "Subject"
+    },
+    {
+        "name": "AnonymousSubject"
+    },
+    {
+        "name": "ConnectableObservable"
+    },
+    {
+        "name": "GroupedObservable"
+    },
+    {
+        "name": "BehaviorSubject"
+    },
+    {
+        "name": "ReplaySubject"
+    },
+    {
+        "name": "AsyncSubject"
+    },
+    {
+        "name": "Scheduler"
+    },
+    {
+        "name": "Action"
+    },
+    {
+        "name": "AsyncScheduler"
+    },
+    {
+        "name": "AsyncAction"
+    },
+    {
+        "name": "AsapScheduler"
+    },
+    {
+        "name": "QueueScheduler"
+    },
+    {
+        "name": "AnimationFrameScheduler"
+    },
+    {
+        "name": "VirtualTimeScheduler"
+    },
+    {
+        "name": "VirtualAction"
+    },
+    {
+        "name": "Notification"
+    },
+    {
+        "name": "InnerSubscriber"
+    },
+    {
+        "name": "OuterSubscriber"
+    },
+    {
+        "name": "CombineLatestOperator"
+    },
+    {
+        "name": "CombineLatestSubscriber"
+    },
+    {
+        "name": "RaceOperator"
+    },
+    {
+        "name": "RaceSubscriber"
+    },
+    {
+        "name": "ZipOperator"
+    },
+    {
+        "name": "ZipSubscriber"
+    },
+    {
+        "name": "WebSocketSubject"
+    },
+    {
+        "name": "DesktopEntry"
+    },
+    {
+        "name": "GameInfoData"
+    },
+    {
+        "name": "GameIconElement",
+        "decorators": [
+            {
+                "name": "customElement",
+                "value": "@customElement('arc-game-icon')"
+            }
+        ],
+        "parameters": [
+            {
+                "name": "property",
+                "value": "@property({ type: Object })"
+            }
+        ]
+    },
+    {
+        "name": "BackgroundElement",
+        "decorators": [
+            {
+                "name": "customElement",
+                "value": "@customElement('arc-background')"
+            }
+        ],
+        "parameters": [
+            {
+                "name": "property",
+                "value": "@property({ type: String })"
+            }
+        ]
+    },
+    {
+        "name": "WaveElement",
+        "decorators": [
+            {
+                "name": "customElement",
+                "value": "@customElement('arc-wave-background')"
+            }
+        ],
+        "parameters": [
+            {
+                "name": "property",
+                "value": "@property({ type: String})"
+            }
+        ]
+    },
+    {
+        "name": "StarElement",
+        "decorators": [
+            {
+                "name": "customElement",
+                "value": "@customElement('arc-star-background')"
+            }
+        ]
+    },
+    {
+        "name": "LightElement",
+        "decorators": [
+            {
+                "name": "customElement",
+                "value": "@customElement('arc-light-background')"
+            }
+        ]
+    },
+    {
+        "name": "CrystalCaveElement",
+        "decorators": [
+            {
+                "name": "customElement",
+                "value": "@customElement('arc-crystal-cave-background')"
+            }
+        ]
+    },
+    {
+        "name": "Application"
+    },
+    {
+        "name": "Universe"
+    },
+    {
+        "name": "Box"
+    },
+    {
+        "name": "Light"
+    },
+    {
+        "name": "RainboxElement",
+        "decorators": [
+            {
+                "name": "customElement",
+                "value": "@customElement('arc-rainbox-background')"
+            }
+        ]
+    },
+    {
+        "name": "PureElement",
+        "decorators": [
+            {
+                "name": "customElement",
+                "value": "@customElement('arc-pure-background')"
+            }
+        ]
+    },
+    {
+        "name": "MoonElement",
+        "decorators": [
+            {
+                "name": "customElement",
+                "value": "@customElement('arc-moon-background')"
+            }
+        ]
+    },
+    {
+        "name": "RippleElement",
+        "decorators": [
+            {
+                "name": "customElement",
+                "value": "@customElement('arc-ripple-background')"
+            }
+        ]
+    },
+    {
+        "name": "VideoBackgroundComponent",
+        "decorators": [
+            {
+                "name": "customElement",
+                "value": "@customElement('arc-video-background')"
+            }
+        ],
+        "parameters": [
+            {
+                "name": "property",
+                "value": "@property({ type: String })"
+            }
+        ]
+    },
+    {
+        "name": "CarrouselElement",
+        "decorators": [
+            {
+                "name": "customElement",
+                "value": "@customElement('arc-carrousel')"
+            }
+        ],
+        "parameters": [
+            {
+                "name": "property",
+                "value": "@property({ type: Array })"
+            }
+        ]
+    },
+    {
+        "name": "BaseCSSStyle"
+    },
+    {
+        "name": "GameCardInfo",
+        "decorators": [
+            {
+                "name": "customElement",
+                "value": "@customElement('arc-game-card-info')"
+            }
+        ],
+        "parameters": [
+            {
+                "name": "property",
+                "value": "@property({type: String})"
+            }
+        ]
+    },
+    {
+        "name": "ArcadeDashboardElement",
+        "decorators": [
+            {
+                "name": "customElement",
+                "value": "@customElement('arcade-dashboard')"
+            }
+        ],
+        "parameters": [
+            {
+                "name": "property",
+                "value": "@property({type: String})"
+            }
+        ]
+    },
+    {
+        "name": "Mocha"
+    }
+]
